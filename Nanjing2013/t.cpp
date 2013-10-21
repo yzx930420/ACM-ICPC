@@ -1,1 +1,0 @@
-{Edge(1, 2), Edge(2, 3), Edge(3, 4), Edge(5, 6), Edge(6, 7), Edge(7, 8), Edge(9, 10), Edge(10, 11), Edge(11, 12), Edge(13, 14), Edge(14, 15), Edge(15, 16), Edge(1, 5), Edge(5, 9), Edge(9, 13), Edge(2, 6), Edge(6, 10), Edge(10, 14), Edge(3, 7), Edge(7, 11), Edge(11, 15), Edge(4, 8), Edge(8, 12), Edge(12, 16)};
